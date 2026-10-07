@@ -1,6 +1,6 @@
 # Stylus Pen
 
-Aplikasi gambar native Linux dengan dukungan tekanan dan kemiringan stylus. Ditulis C++17 di atas GTK4 dan Cairo, tanpa Electron.
+Aplikasi gambar native Linux dengan dukungan tekanan dan kemiringan stylus. Ditulis C++17 di atas GTK4 dan Cairo.
 
 ## Menjalankan
 
