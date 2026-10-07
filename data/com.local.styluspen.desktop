@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Stylus Pen
+GenericName=Drawing App
+Comment=Drawing app with stylus pressure and tilt support
+Exec=/home/johanisrembet/apps/stylus-pen-cpp/build/bin/stylus-pen
+Path=/home/johanisrembet/apps/stylus-pen-cpp
+Icon=stylus-pen
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
+StartupNotify=true
+Keywords=drawing;stylus;pen;tablet;paint;sketch;
